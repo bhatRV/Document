@@ -8,6 +8,7 @@ Contains important documents for reference
 3.https://docs.pivotal.io/spring-cloud-services/common/client-dependencies.html
 4.https://platform-acceleration-lab-links-v1.cfapps.io/
 5.http://cloud.rohitkelapure.com/2016/10/snap-analysis-of-applications.html
+6.https://github.com/cloudfoundry/java-buildpack/blob/master/docs/debugging-the-buildpack.md
 ```
 
 ## Debug in PCF
