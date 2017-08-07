@@ -10,7 +10,7 @@ Contains important documents for reference
 5.http://cloud.rohitkelapure.com/2016/10/snap-analysis-of-applications.html
 ```
 
-### Debug in PCF
+## Debug in PCF
 This is the three steps which we need to follow to debug a PCF application:
 ```
 1) cf set-env spring-music JBP_CONFIG_DEBUG '{enabled:true}'
