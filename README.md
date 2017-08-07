@@ -9,6 +9,7 @@ Contains important documents for reference
 4.https://platform-acceleration-lab-links-v1.cfapps.io/
 5.http://cloud.rohitkelapure.com/2016/10/snap-analysis-of-applications.html
 6.https://github.com/cloudfoundry/java-buildpack/blob/master/docs/debugging-the-buildpack.md
+7.https://github.com/Pivotal-Field-Engineering/ephemerol
 ```
 
 ## Debug in PCF
