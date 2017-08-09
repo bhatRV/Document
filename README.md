@@ -13,6 +13,7 @@ Contains important documents for reference
 08.https://docs.google.com/document/d/1WU7pKwW-Sx5Wrc0pQoM7r4vrSanXa2VcrQ1F6siCwvY/edit#heading=h.xvv6bc2hme7d
 09.http://microservices.io/index.html
 10.https://www.infoq.com/presentations/Value-Objects-Dan-Bergh-Johnsson
+11.https://www.nginx.com/blog/event-driven-data-management-microservices/
 ```
 
 ## Debug in PCF
