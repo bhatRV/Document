@@ -2,22 +2,18 @@
 Contains important documents for reference
 
 ## Important Links
-- [pivotal-cloud-foundry-developer](https://github.com/pivotal-education/pivotal-cloud-foundry-developer):
-```
-- [pivotal-cloud-foundry-developer](https://github.com/pivotal-education/pivotal-cloud-foundry-developer):
 - [Pivotal-Cloud-Foundry-Knowledge-Base](https://discuss.pivotal.io/hc/en-us/categories/200072648-Pivotal-Cloud-Foundry-Knowledge-Base)
-02.https://gist.github.com/tygern/7ae839d0165e7f2bd141402654dc8966
-03.https://docs.pivotal.io/spring-cloud-services/common/client-dependencies.html
-04.https://platform-acceleration-lab-links-v1.cfapps.io/
-05.http://cloud.rohitkelapure.com/2016/10/snap-analysis-of-applications.html
-06.https://github.com/cloudfoundry/java-buildpack/blob/master/docs/debugging-the-buildpack.md
-07.https://github.com/Pivotal-Field-Engineering/ephemerol
-08.https://docs.google.com/document/d/1WU7pKwW-Sx5Wrc0pQoM7r4vrSanXa2VcrQ1F6siCwvY/edit#heading=h.xvv6bc2hme7d
-09.http://microservices.io/index.html
-10.https://www.infoq.com/presentations/Value-Objects-Dan-Bergh-Johnsson
-11.https://www.nginx.com/blog/event-driven-data-management-microservices/
-12.https://cognizant-pal-v1.cfapps.io
-```
+- [Spring dependency management](https://gist.github.com/tygern/7ae839d0165e7f2bd141402654dc8966)
+- [spring-cloud-services](https://docs.pivotal.io/spring-cloud-services/common/client-dependencies.html)
+- [platform-acceleration-lab](https://platform-acceleration-lab-links-v1.cfapps.io/)
+- [cloud.rohitkelapure.com](http://cloud.rohitkelapure.com/2016/10/snap-analysis-of-applications.html)
+- [debugging-the-buildpack](https://github.com/cloudfoundry/java-buildpack/blob/master/docs/debugging-the-buildpack.md)
+- [ephemerol](https://github.com/Pivotal-Field-Engineering/ephemerol)
+- [Practical Microservices](https://docs.google.com/document/d/1WU7pKwW-Sx5Wrc0pQoM7r4vrSanXa2VcrQ1F6siCwvY/edit#heading=h.xvv6bc2hme7d)
+- [microservices.io](http://microservices.io/index.html)
+- [Value-Objects](https://www.infoq.com/presentations/Value-Objects-Dan-Bergh-Johnsson)
+- [event-driven-data-management-microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/)
+- [cognizant-pal-v1.cfapps.io](https://cognizant-pal-v1.cfapps.io)
 
 ## Debug in PCF
 This is the three steps which we need to follow to debug a PCF application:
