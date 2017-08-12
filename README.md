@@ -18,6 +18,7 @@ Contains important documents for reference
 - [microservices-monoliths-noops](http://blog.arungupta.me/microservices-monoliths-noops/)
 - [design-patterns-for-microservices](https://azure.microsoft.com/en-in/blog/design-patterns-for-microservices/)
 
+https://docs.microsoft.com/en-us/azure/architecture/patterns/
 ## Debug in PCF
 This is the three steps which we need to follow to debug a PCF application:
 ```
