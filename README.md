@@ -15,6 +15,9 @@ Contains important documents for reference
 - [event-driven-data-management-microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/)
 - [cognizant-pal-v1.cfapps.io](https://cognizant-pal-v1.cfapps.io)
 
+- [microservices-monoliths-noops](http://blog.arungupta.me/microservices-monoliths-noops/)
+- [design-patterns-for-microservices](https://azure.microsoft.com/en-in/blog/design-patterns-for-microservices/)
+
 ## Debug in PCF
 This is the three steps which we need to follow to debug a PCF application:
 ```
