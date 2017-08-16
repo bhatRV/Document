@@ -1,0 +1,32 @@
+What are the steps in breaking a monolith – into micro services?
+Is it mandatory to have 1 microservice aligned to only 1 database or persistence
+If there is a need to have 1 microservice to connect to multiple databases (or even multiple tables within a database) – will it be okay? Will we miss the loose coupling?
+ 
+In a shopping ecommerce monolith application: if you need to cloudify what could be the steps
+ 
+-          There are 3 main modules - Orders, shopping, inventory are key ones. There is a search which operates on all the 3 modules
+-          Will you create a search microservice? How does it work?
+-          How does authentication work if you are using an Active Directory (for internal users) and if you need to cloudify?
+
+1	SOA vs Microservices differences
+2	Networking knowledge
+3	What is microservice architecture 
+4	What are patterns used in microservice architecture how do we use it (use case scenario)
+5	Approach to develop microservices
+6	What is cloud native
+7	12 factors explain about few of the factors
+8	Experiences in architect solutioning 
+9	Types of NoSQL databases - like Document, Key value, wide column
+10	Experiences in PCF
+11	How to store data in mongo and how do we retrieve
+12	Scenario based - Assume domain like Airtel, telstra how to plan & arrive at the microservices for these
+13	How do we develop a microservice following DDD
+14	Knowdlege on CI/CD process and tools
+15	PCF - advantages
+16	PCF - dashboard uses
+17	PCF - logs to view logs, grey log, splunk server
+18	Microservice
+19	Sandbox data - how to access from micro service
+20	what & why micro service design of micro service
+21	advantages of micro service
+22	what is a Service and REST service
