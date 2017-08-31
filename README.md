@@ -14,13 +14,12 @@ Contains important documents for reference
 - [Value-Objects](https://www.infoq.com/presentations/Value-Objects-Dan-Bergh-Johnsson)
 - [event-driven-data-management-microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/)
 - [cognizant-pal-v1.cfapps.io](https://cognizant-pal-v1.cfapps.io)
-
 - [microservices-monoliths-noops](http://blog.arungupta.me/microservices-monoliths-noops/)
 - [design-patterns-for-microservices](https://azure.microsoft.com/en-in/blog/design-patterns-for-microservices/)
-
-- https://docs.microsoft.com/en-us/azure/architecture/patterns/
-- https://www.javatpoint.com/spring-3-mvc-tutorial
-- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation]http://www.synchronit.com/downloads/Continuous%20Delivery%20-%20Reliable%20Software%20Releases%20Through%20Build,%20Test%20And%20Deployment%20Automation.pdf
+- [Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [Spring MVC](https://www.javatpoint.com/spring-3-mvc-tutorial)
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](http://www.synchronit.com/downloads/Continuous%20Delivery%20-%20Reliable%20Software%20Releases%20Through%20Build,%20Test%20And%20Deployment%20Automation.pdf)
+- [Migrating to Cloud Native Application Architectures](https://download3.vmware.com/vmworld/2015/downloads/oreilly-cloud-native-archx.pdf)
 
 
 ## Debug in PCF
