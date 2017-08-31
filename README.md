@@ -20,6 +20,7 @@ Contains important documents for reference
 
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 - https://www.javatpoint.com/spring-3-mvc-tutorial
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation]http://www.synchronit.com/downloads/Continuous%20Delivery%20-%20Reliable%20Software%20Releases%20Through%20Build,%20Test%20And%20Deployment%20Automation.pdf
 
 
 ## Debug in PCF
