@@ -18,8 +18,8 @@ Contains important documents for reference
 - [microservices-monoliths-noops](http://blog.arungupta.me/microservices-monoliths-noops/)
 - [design-patterns-for-microservices](https://azure.microsoft.com/en-in/blog/design-patterns-for-microservices/)
 
-https://docs.microsoft.com/en-us/azure/architecture/patterns/
-https://www.javatpoint.com/spring-3-mvc-tutorial
+- https://docs.microsoft.com/en-us/azure/architecture/patterns/
+- https://www.javatpoint.com/spring-3-mvc-tutorial
 
 
 ## Debug in PCF
