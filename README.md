@@ -22,6 +22,7 @@ Contains important documents for reference
 - [Migrating to Cloud Native Application Architectures](https://download3.vmware.com/vmworld/2015/downloads/oreilly-cloud-native-archx.pdf)
 - [Java Re-Defined](http://www.java-redefined.com/2013/08/java-collections-internal-working.html)
 - [Journal Dev](http://www.journaldev.com/2888/spring-tutorial-spring-core-tutorial)
+- [How todo In Java](http://howtodoinjava.com/)
 
 
 ## Debug in PCF
