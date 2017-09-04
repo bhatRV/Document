@@ -23,6 +23,7 @@ Contains important documents for reference
 - [Java Re-Defined](http://www.java-redefined.com/2013/08/java-collections-internal-working.html)
 - [Journal Dev](http://www.journaldev.com/2888/spring-tutorial-spring-core-tutorial)
 - [How todo In Java](http://howtodoinjava.com/)
+- [httpstatuscodes](http://www.restapitutorial.com/httpstatuscodes.html)
 
 
 ## Debug in PCF
