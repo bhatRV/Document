@@ -25,6 +25,14 @@ Contains important documents for reference
 - [How todo In Java](http://howtodoinjava.com/)
 - [httpstatuscodes](http://www.restapitutorial.com/httpstatuscodes.html)
 
+```
+http://howtodoinjava.com/java-tutorials-list-howtodoinjava 
+https://blog.udemy.com/java-interview-questions
+http://www.journaldev.com/2366/core-java-interview-questions-and-answers
+https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf
+```
+
+
 
 ## Debug in PCF
 This is the three steps which we need to follow to debug a PCF application:
