@@ -24,6 +24,7 @@ Contains important documents for reference
 - [Journal Dev](http://www.journaldev.com/2888/spring-tutorial-spring-core-tutorial)
 - [How todo In Java](http://howtodoinjava.com/)
 - [httpstatuscodes](http://www.restapitutorial.com/httpstatuscodes.html)
+- [spring_annotations_cheat_sheet](http://files.zeroturnaround.com/pdf/zt_spring_annotations_cheat_sheet.pdf)
 
 ```
 http://howtodoinjava.com/java-tutorials-list-howtodoinjava 
