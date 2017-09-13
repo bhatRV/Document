@@ -33,6 +33,10 @@ http://www.journaldev.com/2366/core-java-interview-questions-and-answers
 https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf
 http://www.java2novice.com
 https://dzone.com/articles/developing-jsf-applications-with-spring-boot
+https://dzone.com/articles/when-use-mongodb-rather-mysql
+https://dzone.com/articles/spring-projects-best-practices-episode-i
+https://dzone.com/articles/making-the-case-for-and-against-lift-and-shift-clo
+
 ```
 
 
