@@ -40,6 +40,7 @@ https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 https://dzone.com/articles/sql-vs-nosql
 http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/
 https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
+https://howtodoinjava.com/spring/spring-restful/spring-restful-client-resttemplate-example/
 ```
 
 
