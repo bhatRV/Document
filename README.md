@@ -41,6 +41,8 @@ https://dzone.com/articles/sql-vs-nosql
 http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/
 https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 https://howtodoinjava.com/spring/spring-restful/spring-restful-client-resttemplate-example/
+http://www.baeldung.com/spring-annotation-bean-pre-processor
+http://www.baeldung.com/spring-boot-custom-starter
 ```
 
 
