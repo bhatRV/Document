@@ -44,6 +44,7 @@ https://howtodoinjava.com/spring/spring-restful/spring-restful-client-resttempla
 http://www.baeldung.com/spring-annotation-bean-pre-processor
 http://www.baeldung.com/spring-boot-custom-starter
 http://www.bmc.com/blogs/microservices-vs-soa-whats-difference/
+http://devdocs.magento.com/guides/m1x/api/rest/Resources/resource_customers.html#RESTAPI-Resource-Customers-HTTPMethod-POST-customers
 ```
 
 
