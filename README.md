@@ -47,6 +47,7 @@ http://www.bmc.com/blogs/microservices-vs-soa-whats-difference/
 http://devdocs.magento.com/guides/m1x/api/rest/Resources/resource_customers.html#RESTAPI-Resource-Customers-HTTPMethod-POST-customers
 http://www.baeldung.com/spring-async
 https://dzone.com/articles/a-guide-to-spring-framework-annotations
+https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication
 ```
 
 
