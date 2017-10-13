@@ -51,6 +51,7 @@ https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication
 http://tech.asimio.net/2017/02/02/Refreshable-Configuration-using-Spring-Cloud-Config-Server-Spring-Cloud-Bus-RabbitMQ-and-Git.html
 https://stackoverflow.com/questions/26791654/partialresultexception-when-authenticating-with-spring-security-and-javaconfig/26872236#26872236
 https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-normal-controllers/
+https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
 ```
 
 ## Debug in PCF
