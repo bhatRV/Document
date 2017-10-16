@@ -54,6 +54,11 @@ https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-sp
 https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
 https://github.com/jdgramajo/bookpub.git
 http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
+
+https://www.lynda.com/Spring-Framework-tutorials/Building-Full-Stack-App-Angular-2-Spring-Boot/573416-2.html
+https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-and-angularjs-integration-tutorial/
+https://dzone.com/articles/developing-async-microservices-architecture-using
+https://stormpath.com/blog/tutorial-get-started-angular-spring-boot-stormpath
 ```
 
 ## Debug in PCF
