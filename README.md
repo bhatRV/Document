@@ -53,6 +53,7 @@ https://stackoverflow.com/questions/26791654/partialresultexception-when-authent
 https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-normal-controllers/
 https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
 https://github.com/jdgramajo/bookpub.git
+http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
 ```
 
 ## Debug in PCF
