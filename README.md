@@ -62,6 +62,8 @@ https://stormpath.com/blog/tutorial-get-started-angular-spring-boot-stormpath
 
 https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
 https://www.guru99.com/angularjs-testing-unit.html
+
+https://www.youtube.com/watch?v=k5E2AVpwsko
 ```
 
 ## Debug in PCF
