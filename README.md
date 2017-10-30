@@ -26,7 +26,7 @@ Contains important documents for reference
 - [httpstatuscodes](http://www.restapitutorial.com/httpstatuscodes.html)
 - [spring_annotations_cheat_sheet](http://files.zeroturnaround.com/pdf/zt_spring_annotations_cheat_sheet.pdf)
 
-```
+```text
 http://howtodoinjava.com/java-tutorials-list-howtodoinjava 
 https://blog.udemy.com/java-interview-questions
 http://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -45,9 +45,27 @@ http://www.baeldung.com/spring-annotation-bean-pre-processor
 http://www.baeldung.com/spring-boot-custom-starter
 http://www.bmc.com/blogs/microservices-vs-soa-whats-difference/
 http://devdocs.magento.com/guides/m1x/api/rest/Resources/resource_customers.html#RESTAPI-Resource-Customers-HTTPMethod-POST-customers
+http://www.baeldung.com/spring-async
+https://dzone.com/articles/a-guide-to-spring-framework-annotations
+https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication
+http://tech.asimio.net/2017/02/02/Refreshable-Configuration-using-Spring-Cloud-Config-Server-Spring-Cloud-Bus-RabbitMQ-and-Git.html
+https://stackoverflow.com/questions/26791654/partialresultexception-when-authenticating-with-spring-security-and-javaconfig/26872236#26872236
+https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-normal-controllers/
+https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
+https://github.com/jdgramajo/bookpub.git
+http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
+
+https://www.lynda.com/Spring-Framework-tutorials/Building-Full-Stack-App-Angular-2-Spring-Boot/573416-2.html
+https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-and-angularjs-integration-tutorial/
+https://dzone.com/articles/developing-async-microservices-architecture-using
+https://stormpath.com/blog/tutorial-get-started-angular-spring-boot-stormpath
+
+https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
+https://www.guru99.com/angularjs-testing-unit.html
+
+https://www.youtube.com/watch?v=k5E2AVpwsko
+http://www.crazyforcode.com/java/
 ```
-
-
 
 ## Debug in PCF
 This is the three steps which we need to follow to debug a PCF application:
