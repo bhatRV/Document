@@ -64,6 +64,7 @@ https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
 https://www.guru99.com/angularjs-testing-unit.html
 
 https://www.youtube.com/watch?v=k5E2AVpwsko
+http://www.crazyforcode.com/java/
 ```
 
 ## Debug in PCF
