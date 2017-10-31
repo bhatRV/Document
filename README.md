@@ -67,6 +67,8 @@ https://www.youtube.com/watch?v=k5E2AVpwsko
 http://www.crazyforcode.com/java/
 https://martinfowler.com/articles/microservice-testing/
 
+http://javasampleapproach.com
+
 ```
 
 ## Debug in PCF
