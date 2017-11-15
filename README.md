@@ -75,7 +75,7 @@ https://www.callicoder.com/spring-boot-log4j-2-example/
 http://www.allthingsdistributed.com/2016/06/aws-lambda-serverless-reference-architectures.html
 https://klarsys.github.io/angular-material-icons/
 
-
+https://blog.mitocgroup.com/building-scalable-web-apps-with-aws-lambda-and-home-grown-serverless-web-framework-e04c912d08f0
 
 ```
 
