@@ -77,6 +77,9 @@ https://klarsys.github.io/angular-material-icons/
 
 https://blog.mitocgroup.com/building-scalable-web-apps-with-aws-lambda-and-home-grown-serverless-web-framework-e04c912d08f0
 https://developers.braintreepayments.com/start/tutorial
+
+http://javasampleapproach.com/java-integration/convert-java-object-intofrom-xml-spring-boot#comment-1673
+
 ```
 
 ## Debug in PCF
