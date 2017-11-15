@@ -73,6 +73,9 @@ https://www.metaltoad.com/blog/angular-2-http-observables-and-concurrent-data-lo
 https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c
 https://www.callicoder.com/spring-boot-log4j-2-example/
 http://www.allthingsdistributed.com/2016/06/aws-lambda-serverless-reference-architectures.html
+https://klarsys.github.io/angular-material-icons/
+
+
 
 ```
 
