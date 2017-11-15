@@ -72,7 +72,7 @@ https://coursetro.com/posts
 https://www.metaltoad.com/blog/angular-2-http-observables-and-concurrent-data-loading
 https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c
 https://www.callicoder.com/spring-boot-log4j-2-example/
-
+http://www.allthingsdistributed.com/2016/06/aws-lambda-serverless-reference-architectures.html
 
 ```
 
