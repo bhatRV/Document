@@ -59,6 +59,7 @@ https://www.lynda.com/Spring-Framework-tutorials/Building-Full-Stack-App-Angular
 https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-and-angularjs-integration-tutorial/
 https://dzone.com/articles/developing-async-microservices-architecture-using
 https://stormpath.com/blog/tutorial-get-started-angular-spring-boot-stormpath
+https://www.infoworld.com/article/2610438/cloud-computing/what-being-cloud-native-really-means.html
 
 https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
 https://www.guru99.com/angularjs-testing-unit.html
