@@ -93,3 +93,8 @@ This is the three steps which we need to follow to debug a PCF application:
 ```
 Anwar's email id - achirakkattil@pivotal.io
 ```
+
+```
+ "c:\Program Files\MySQL\MySQL Workbench 6.3 CE\mysql.exe" -u vPfVT0MyeL4u3NVs -p -D cf_325876a3_eaba_45a8_a0c8_7d8060354c92 -P 63306  < ..\jLibsEssentials\saikiran_enterprises.sql
+ "c:\Program Files\MySQL\MySQL Workbench 6.3 CE\mysql.exe" -u vPfVT0MyeL4u3NVs -p -D cf_325876a3_eaba_45a8_a0c8_7d8060354c92 -P 63306
+ ```
