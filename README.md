@@ -85,6 +85,8 @@ https://cloudcraft.co/app
 https://tutorials.technology/tutorials/32-concourse-continous-build-and-deploy-configuration.html
 https://dzone.com/articles/springhibernate-application
 https://dzone.com/articles/a-step-by-step-guide-for-dockerizing-and-managing
+
+https://jgalacambra.wordpress.com/2016/06/13/spring-boot-and-struts-2/
 ```
 
 ## Debug in PCF
