@@ -87,6 +87,8 @@ https://dzone.com/articles/springhibernate-application
 https://dzone.com/articles/a-step-by-step-guide-for-dockerizing-and-managing
 
 https://jgalacambra.wordpress.com/2016/06/13/spring-boot-and-struts-2/
+
+https://docs.oracle.com/javadb/10.8.3.0/devguide/rdevdvlp22102.html#rdevdvlp22102
 ```
 
 ## Debug in PCF
