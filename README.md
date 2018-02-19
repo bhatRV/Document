@@ -81,6 +81,9 @@ https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-sp
 https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 https://www.youtube.com/watch?v=k5E2AVpwsko
+
+https://www.mkyong.com/maven/jacoco-java-code-coverage-maven-example/
+
 ```
 
 ## Debug in PCF
