@@ -84,6 +84,7 @@ https://www.youtube.com/watch?v=k5E2AVpwsko
 
 https://www.mkyong.com/maven/jacoco-java-code-coverage-maven-example/
 
+https://natelandau.com/my-mac-osx-bash_profile/
 ```
 
 ## Debug in PCF
