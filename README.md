@@ -59,6 +59,7 @@ https://dzone.com/articles/springhibernate-application
 https://dzone.com/articles/spring-projects-best-practices-episode-i
 https://dzone.com/articles/sql-vs-nosql
 https://dzone.com/articles/when-use-mongodb-rather-mysql
+https://dzone.com/articles/10-tricky-interview-questions-for-java-devs
 https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-and-angularjs-integration-tutorial/
 https://github.com/jdgramajo/bookpub.git
 https://howtodoinjava.com/spring/spring-restful/spring-restful-client-resttemplate-example/
@@ -81,6 +82,7 @@ https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-sp
 https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 https://www.youtube.com/watch?v=k5E2AVpwsko
+https://www.codementor.io/savingfunda/20-java-interview-questions-and-answers-from-investment-banks-98ghl6frw
 
 https://www.mkyong.com/maven/jacoco-java-code-coverage-maven-example/
 
