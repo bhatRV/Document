@@ -90,6 +90,7 @@ https://www.mkyong.com/maven/jacoco-java-code-coverage-maven-example/
 https://natelandau.com/my-mac-osx-bash_profile/
 
 http://java.amitph.com/2014/01/understanding-java-8-streams-api.html
+https://www.infoq.com/articles/Java-8-Lambdas-A-Peek-Under-the-Hood
 
 ```
 
