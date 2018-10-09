@@ -60,6 +60,7 @@ https://dzone.com/articles/spring-projects-best-practices-episode-i
 https://dzone.com/articles/sql-vs-nosql
 https://dzone.com/articles/when-use-mongodb-rather-mysql
 https://dzone.com/articles/10-tricky-interview-questions-for-java-devs
+https://dzone.com/articles/lambda-expressions-in-java-8
 https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-and-angularjs-integration-tutorial/
 https://github.com/jdgramajo/bookpub.git
 https://howtodoinjava.com/spring/spring-restful/spring-restful-client-resttemplate-example/
@@ -87,6 +88,9 @@ https://www.codementor.io/savingfunda/20-java-interview-questions-and-answers-fr
 https://www.mkyong.com/maven/jacoco-java-code-coverage-maven-example/
 
 https://natelandau.com/my-mac-osx-bash_profile/
+
+http://java.amitph.com/2014/01/understanding-java-8-streams-api.html
+
 ```
 
 ## Debug in PCF
