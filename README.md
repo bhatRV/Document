@@ -28,6 +28,7 @@ Contains important documents for reference
 
 ```text
 
+https://www.codeproject.com/Articles/339725/Domain-Driven-Design-Clear-Your-Concepts-Before-Yo
 http://devdocs.magento.com/guides/m1x/api/rest/Resources/resource_customers.html#RESTAPI-Resource-Customers-HTTPMethod-POST-customers
 http://howtodoinjava.com/java-tutorials-list-howtodoinjava 
 http://javasampleapproach.com
